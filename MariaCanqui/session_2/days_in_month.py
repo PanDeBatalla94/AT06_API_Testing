@@ -1,9 +1,3 @@
-import calendar
-list = calendar.mdays
-
-
-
-
 def days_in_month(month_name):
     return {
         'January': 31,
