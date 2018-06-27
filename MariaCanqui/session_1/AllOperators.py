@@ -93,3 +93,14 @@ else:
 
 
 
+
+print("moOse")
+print(set(list("moOse".lower())))
+string = "aba"
+
+print(len(set(list(string.lower()))))
+if len(list(string.lower())) == len(set(list(string.lower()))):
+        print("true")
+print("false")
+
+

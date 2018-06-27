@@ -41,11 +41,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AllOperators.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AllOperators.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/session_1/AllOperators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="100" column="37" lean-forward="false" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conditionals.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/session_2/conditionals.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="area_of_circle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/session_2/area_of_circle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="summatory.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/session_2/summatory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="days_in_month.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/session_2/days_in_month.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -79,6 +119,10 @@
         <option value="$PROJECT_DIR$/session_1/IdentityOperators.py" />
         <option value="$PROJECT_DIR$/session_1/Functions.py" />
         <option value="$PROJECT_DIR$/session_1/AllOperators.py" />
+        <option value="$PROJECT_DIR$/session_2/conditionals.py" />
+        <option value="$PROJECT_DIR$/session_2/area_of_circle.py" />
+        <option value="$PROJECT_DIR$/session_2/summatory.py" />
+        <option value="$PROJECT_DIR$/session_2/days_in_month.py" />
       </list>
     </option>
   </component>
@@ -125,6 +169,11 @@
               <item name="MariaCanqui" type="462c0819:PsiDirectoryNode" />
               <item name="session_1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MariaCanqui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MariaCanqui" type="462c0819:PsiDirectoryNode" />
+              <item name="session_2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AllOperators">
+  <component name="RunManager" selected="Python.days_in_month">
     <configuration name="AllOperators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,88 +215,88 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="area_of_circle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MariaCanqui" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session_1/Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session_2/area_of_circle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="IdentityOperators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="conditionals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MariaCanqui" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session_1/IdentityOperators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session_2/conditionals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PracticeArithmeticOperators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="days_in_month" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MariaCanqui" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session_1/PracticeArithmeticOperators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session_2/days_in_month.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="summatory" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MembershipOperators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MariaCanqui" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MembershipOperators/script.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session_2/summatory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.script" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PracticeArithmeticOperators" />
-      <item index="2" class="java.lang.String" itemvalue="Python.IdentityOperators" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Functions" />
-      <item index="4" class="java.lang.String" itemvalue="Python.AllOperators" />
+      <item index="0" class="java.lang.String" itemvalue="Python.AllOperators" />
+      <item index="1" class="java.lang.String" itemvalue="Python.conditionals" />
+      <item index="2" class="java.lang.String" itemvalue="Python.area_of_circle" />
+      <item index="3" class="java.lang.String" itemvalue="Python.summatory" />
+      <item index="4" class="java.lang.String" itemvalue="Python.days_in_month" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.AllOperators" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Functions" />
-        <item index="2" class="java.lang.String" itemvalue="Python.IdentityOperators" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PracticeArithmeticOperators" />
-        <item index="4" class="java.lang.String" itemvalue="Python.script" />
+        <item index="0" class="java.lang.String" itemvalue="Python.days_in_month" />
+        <item index="1" class="java.lang.String" itemvalue="Python.summatory" />
+        <item index="2" class="java.lang.String" itemvalue="Python.area_of_circle" />
+        <item index="3" class="java.lang.String" itemvalue="Python.conditionals" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AllOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +322,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30385852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30385852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -296,14 +345,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/session_1/IdentityOperators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/session_1/PracticeArithmeticOperators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -320,6 +361,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/session_1/AllOperators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="100" column="37" lean-forward="false" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session_2/conditionals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session_2/area_of_circle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session_2/summatory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session_1/IdentityOperators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/session_1/Functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -328,10 +409,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/session_1/AllOperators.py">
+    <entry file="file://$PROJECT_DIR$/session_2/days_in_month.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        <state relative-caret-position="334">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding />
         </state>
       </provider>
