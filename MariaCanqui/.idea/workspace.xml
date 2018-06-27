@@ -41,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AllOperators.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AllOperators.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/session_1/AllOperators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state relative-caret-position="436">
+              <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,8 +84,18 @@
       <file leaf-file-name="days_in_month.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/session_2/days_in_month.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="130">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urlValidation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/session_2/urlValidation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -121,8 +131,9 @@
         <option value="$PROJECT_DIR$/session_2/conditionals.py" />
         <option value="$PROJECT_DIR$/session_2/area_of_circle.py" />
         <option value="$PROJECT_DIR$/session_2/summatory.py" />
-        <option value="$PROJECT_DIR$/session_2/days_in_month.py" />
         <option value="$PROJECT_DIR$/session_1/AllOperators.py" />
+        <option value="$PROJECT_DIR$/session_2/days_in_month.py" />
+        <option value="$PROJECT_DIR$/session_2/urlValidation.py" />
       </list>
     </option>
   </component>
@@ -197,24 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.days_in_month">
-    <configuration name="AllOperators" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MariaCanqui" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session_1/AllOperators.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.urlValidation">
     <configuration name="area_of_circle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,20 +277,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="urlValidation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/session_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MariaCanqui" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/session_2/urlValidation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.AllOperators" />
-      <item index="1" class="java.lang.String" itemvalue="Python.conditionals" />
-      <item index="2" class="java.lang.String" itemvalue="Python.area_of_circle" />
-      <item index="3" class="java.lang.String" itemvalue="Python.summatory" />
-      <item index="4" class="java.lang.String" itemvalue="Python.days_in_month" />
+      <item index="0" class="java.lang.String" itemvalue="Python.conditionals" />
+      <item index="1" class="java.lang.String" itemvalue="Python.area_of_circle" />
+      <item index="2" class="java.lang.String" itemvalue="Python.summatory" />
+      <item index="3" class="java.lang.String" itemvalue="Python.days_in_month" />
+      <item index="4" class="java.lang.String" itemvalue="Python.urlValidation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.days_in_month" />
-        <item index="1" class="java.lang.String" itemvalue="Python.summatory" />
-        <item index="2" class="java.lang.String" itemvalue="Python.area_of_circle" />
-        <item index="3" class="java.lang.String" itemvalue="Python.conditionals" />
-        <item index="4" class="java.lang.String" itemvalue="Python.AllOperators" />
+        <item index="0" class="java.lang.String" itemvalue="Python.urlValidation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.days_in_month" />
+        <item index="2" class="java.lang.String" itemvalue="Python.summatory" />
+        <item index="3" class="java.lang.String" itemvalue="Python.area_of_circle" />
+        <item index="4" class="java.lang.String" itemvalue="Python.conditionals" />
       </list>
     </recent_temporary>
   </component>
@@ -385,14 +396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/session_2/days_in_month.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/session_1/IdentityOperators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -411,8 +414,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/session_1/AllOperators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        <state relative-caret-position="436">
+          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session_2/days_in_month.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session_2/urlValidation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
           <folding />
         </state>
       </provider>
