@@ -1,0 +1,9 @@
+2018-07-02 19:50:39,158 - __main__ - INFO - Start application
+2018-07-02 19:50:41,065 - __main__ - DEBUG - employees amount: 3
+2018-07-02 19:50:41,065 - __main__ - INFO - creation of employees dictionary .. 
+2018-07-02 19:50:50,189 - __main__ - DEBUG - employee information: maria commercial CE_1 15.0
+2018-07-02 19:50:50,189 - __main__ - INFO - creating object ...
+2018-07-02 19:53:03,753 - __main__ - DEBUG - employee information: alex commercial CE_2 1500.0
+2018-07-02 19:53:03,753 - __main__ - INFO - creating object ...
+2018-07-02 19:53:15,112 - __main__ - DEBUG - employee information: elena production PE_1 487.0
+2018-07-02 19:53:15,112 - __main__ - INFO - creating object ...

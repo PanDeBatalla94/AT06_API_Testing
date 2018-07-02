@@ -46,6 +46,6 @@ for i in range(amount):
 
 print("Employee Id | Name | Department | Global Salary | Total Discount | Net Salary")
 for j in employees:
-    print(employees[j].get_employeeId(),"     |",employees[j].get_name(),"|",employees[j].get_department(), "|",employees[j].get_globalSalary(),"|",employees[j].get_totalDiscount(),"|", employees[j].get_netSalary())
+    print(employees[j].get_employeeId(),"       |",employees[j].get_name(),"|",employees[j].get_department(), "|",employees[j].get_globalSalary(),"|",employees[j].get_totalDiscount(),"|", employees[j].get_netSalary())
 
 
