@@ -8,7 +8,7 @@ def ask_username():
 #Need to be write with lowercase letter (a-z), number (0-9), an underscore
 def verify_username(name):
     while True:
-        if re.fullmatch("([a-z0-9 ]*)", name): return name
+        if re.fullmatch("([a-z0-9_ ]*)", name): return name
         else: name = input("Not valid user name, try again: ")
 
 #Add a method that is going to ask for a password
