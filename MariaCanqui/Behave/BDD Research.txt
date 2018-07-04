@@ -1,0 +1,44 @@
+RESEARCH
+
+- When and why BDD was defined
+BDD was defined because programmers didn't know where or how start when they needed made a test. For this reason BDD was created, this define agile practices to develop a software. It was develop by Dan North.
+
+- The most important aspects of BDD
+Using BDD it's more easy validate the functionalities of the application.
+Adaptation to changes.
+Is a development process that permit a better communication beetween all the interested parts in a project
+We use a language that all involved parts can understand
+
+- Why is useful and when could be applied.
+BDD is useful because is a methodology to develop software. 
+In BDD the PO, QA team and developers are involucrated with the project. 
+
+- Which type of teams could implement BDD
+any team coul implement BDD
+
+- Structure of a feature – Give an example
+	Name: Register students grades
+	Priority: High
+
+- Structure of a user story – Give an example
+	As a teacher
+	I want to register grades of students enrolled in my 		parallels
+		|IdStudent | IDSubject | IdParallel | Grade 1 | Grade 2 |
+		|1         | 1         | 2          | 80      | 76      |
+
+	So that the system calculate final grades
+
+- Structure of a scenario – Give an example
+
+	Scenario: Only grade 1
+			Given that a teacher is register in the system 
+			and is assigned to a course and a parallel
+			When he go to the register grades section 
+			he insert only grade 1 
+			Then the system should ask for grade 2 			
+
+
+- Differences between BDD and BDT
+BDD is a methodology to develop based on TDD, BDT is a methodology to testing
+BDD is present since the project starts unlike BDT that start in the middle of the project  
+
